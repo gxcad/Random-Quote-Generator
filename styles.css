@@ -1,0 +1,55 @@
+body {
+    background-color: #303030;
+    font-family: didot;
+  }
+  #title {
+    font-size: 24pt;
+    color: whitesmoke;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+  }
+  #wrapper {
+    text-align: center;
+  }
+  #quote-box {
+    margin: 50px auto 50px auto;
+    background-color: #ffff99;
+    width: 70%;
+    border-radius: 10px;
+    padding: 30px 20px 20px 20px;
+  }
+  #text {
+    font-size: 16pt;
+    color: #303030;
+    padding: 10px 40px 20px 40px;
+  }
+  #author {
+    text-align: right;
+    padding: 0px 50px 0px 0px
+  }
+  #my-name {
+    text-align: right;
+    font-size: 10pt;
+    color: #303030;
+    padding: 40px 0px 0px 0px;
+  }
+  #tweet {
+    font-size: 12pt;
+    color: whitesmoke;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    background-color:#1DA1F2;
+  }
+  #tweet:hover {
+    background-color: #4286f4;
+  }
+  #new-quote {
+    font-size: 16pt;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+  }
+  #new-quote:hover {
+    background-color: lightgray;
+  }
